@@ -79,6 +79,10 @@ body{
     background:#fff;
     height:420px;
 }
+
+.clear{
+    clear: both;
+}
     
 .undercor{
     text-decoration:none;
@@ -92,6 +96,7 @@ body{
     background:#417aa8;
     color:#fff;
     margin-bottom: 1pc;
+    clear: both;
 }
 
 
